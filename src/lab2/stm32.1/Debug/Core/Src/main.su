@@ -1,0 +1,12 @@
+../Core/Src/header.h:28:6:display7SEG	24	static
+../Core/Src/header.h:40:6:toggle	8	static
+../Core/Src/header.h:158:6:resetLED	8	static
+../Core/Src/header.h:165:6:enSelect	16	static
+../Core/Src/header.h:210:6:update7SEG	16	static
+../Core/Src/header.h:242:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/header.h:291:6:updateClockBuffer	4	static
+../Core/Src/main.c:66:5:main	8	static
+../Core/Src/main.c:135:6:SystemClock_Config	72	static
+../Core/Src/main.c:172:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:217:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:265:6:Error_Handler	4	static,ignoring_inline_asm

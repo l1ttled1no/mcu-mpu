@@ -1,0 +1,13 @@
+../Core/Src/header.h:72:6:set	1
+../Core/Src/header.h:77:6:run	2
+../Core/Src/header.h:87:6:convertToBinary	2
+../Core/Src/header.h:93:6:convertShift	4
+../Core/Src/header.h:111:6:updateLEDMatrix	4
+../Core/Src/header.h:124:6:resetState	2
+../Core/Src/header.h:129:6:displayLEDMatrix	3
+../Core/Src/main.c:66:5:main	2
+../Core/Src/main.c:119:6:SystemClock_Config	3
+../Core/Src/main.c:156:13:MX_TIM2_Init	4
+../Core/Src/main.c:201:13:MX_GPIO_Init	1
+../Core/Src/main.c:246:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:255:6:Error_Handler	1

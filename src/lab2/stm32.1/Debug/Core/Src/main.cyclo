@@ -1,0 +1,12 @@
+../Core/Src/header.h:28:6:display7SEG	5
+../Core/Src/header.h:40:6:toggle	1
+../Core/Src/header.h:158:6:resetLED	1
+../Core/Src/header.h:165:6:enSelect	5
+../Core/Src/header.h:210:6:update7SEG	6
+../Core/Src/header.h:242:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/header.h:291:6:updateClockBuffer	1
+../Core/Src/main.c:66:5:main	4
+../Core/Src/main.c:135:6:SystemClock_Config	3
+../Core/Src/main.c:172:13:MX_TIM2_Init	4
+../Core/Src/main.c:217:13:MX_GPIO_Init	1
+../Core/Src/main.c:265:6:Error_Handler	1
