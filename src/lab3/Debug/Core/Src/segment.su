@@ -1,0 +1,5 @@
+../Core/Src/segment.c:27:6:set7SegH	24	static
+../Core/Src/segment.c:40:6:set7SegV	24	static
+../Core/Src/segment.c:54:6:scan7Seg	16	static
+../Core/Src/segment.c:78:6:updateSegment	24	static
+../Core/Src/segment.c:85:6:updateSegment2Digits	16	static

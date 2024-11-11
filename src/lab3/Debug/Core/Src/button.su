@@ -1,0 +1,2 @@
+../Core/Src/button.c:20:5:isButtonNoPressed	16	static
+../Core/Src/button.c:28:6:buttonRead	16	static

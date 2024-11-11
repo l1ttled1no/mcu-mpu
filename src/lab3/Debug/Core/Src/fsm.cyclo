@@ -1,0 +1,6 @@
+../Core/Src/fsm.c:34:6:segmentUpdateAuto	1
+../Core/Src/fsm.c:38:6:fsm_run	1
+../Core/Src/fsm.c:44:6:button0Signal	2
+../Core/Src/fsm.c:61:6:fsm_auto_hor	19
+../Core/Src/fsm.c:140:6:fsm_auto_ver	13
+../Core/Src/fsm.c:189:6:fsm_man	27

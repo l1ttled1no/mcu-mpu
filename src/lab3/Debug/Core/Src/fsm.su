@@ -1,0 +1,6 @@
+../Core/Src/fsm.c:34:6:segmentUpdateAuto	8	static
+../Core/Src/fsm.c:38:6:fsm_run	8	static
+../Core/Src/fsm.c:44:6:button0Signal	8	static
+../Core/Src/fsm.c:61:6:fsm_auto_hor	8	static
+../Core/Src/fsm.c:140:6:fsm_auto_ver	8	static
+../Core/Src/fsm.c:189:6:fsm_man	16	static
